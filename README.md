@@ -1,6 +1,4 @@
 # The scales of Human Mobility
-*Python package for detecting scales in mobility data*
-
 This package implements the model described in 
 [** article missing for now ** ]
 
@@ -35,5 +33,3 @@ Solutions can be plotted using:
 ```
 
 Plotting this onto a map:
-
-![img](https://ulfaslak.com/files/infostop_example_geomap.png)
