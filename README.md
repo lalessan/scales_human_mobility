@@ -19,7 +19,7 @@ array([[ 55.75259295,  12.34353885, 1581401760 ],
 The package allows to extract charachteristic "containers" in the mobility trace, generate synthetic data, and visualize solutions on a map. (see example: 2_Fit_data_and_generate.ipynb)
 
 
-![img](https://github.com/lalessan/scales_human_mobility/containers_example.png)
+![img](https://github.com/lalessan/scales_human_mobility/blob/master/containers_example.png)
 
 
 
