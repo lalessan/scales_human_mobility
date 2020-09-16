@@ -16,20 +16,13 @@ array([[ 55.75259295,  12.34353885, 1581401760 ],
        [ 63.403787  ,  10.4047871 , 1583403760 ]])
 ```
 
-The package allows to extract charachteristic "containers" in the mobility trace.
+The package allows to extract charachteristic "containers" in the mobility trace, generate synthetic data, and visualize solutions on a map. (see example: 2_Fit_data_and_generate.ipynb)
 
-```Python
->>> from scales_human_mobility import ScaleModel
->>> model = ScaleModel()
->>> containers = model.fit_predict(data)
-```
 
-Solutions can be plotted using:
+![img](https://github.com/lalessan/scales_human_mobility/blob/master/containers_example.png)
 
-```Python
->>> from infostop import plot_map
->>> folmap = plot_map(model)
->>> folmap.m
-```
 
-Plotting this onto a map:
+
+
+Further, it allows to generate realistic synthetic data on a grid (see example: 3_Generate_data_on_a_grid.ipynb)
+
