@@ -1,6 +1,6 @@
 # The scales of Human Mobility
 This package implements the model described in 
-[** article missing for now ** ]
+[Alessandretti, L., Aslak, U. & Lehmann, S. The scales of human mobility. Nature 587, 402-407 (2020).](https://www.nature.com/articles/s41586-020-2909-1#:~:text=There%2C%20human%20mobility%20is%20described,free1%2C2%2C3.&text=The%20scale%2Dfree%20results%20arise,sizes%20of%20these%20geographical%20containers.)
 
 ## Usage
 Given a location trace such as:
