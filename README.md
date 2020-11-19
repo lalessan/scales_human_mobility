@@ -1,5 +1,4 @@
 # The scales of Human Mobility
-=======
 
 This package implements the model described in:
 
